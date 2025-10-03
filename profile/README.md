@@ -8,8 +8,10 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Status-In%20Development-purple?style=for-the-badge" alt="Status"/>
-<img src="https://img.shields.io/badge/Type-Solo%20Project-blueviolet?style=for-the-badge" alt="Type"/>
+[![GitHub](https://img.shields.io/badge/GitHub-WomB0ComB0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WomB0ComB0)
+[![Open Collective](https://img.shields.io/badge/Open%20Collective-mike--odnis-DAA520?style=for-the-badge&logo=opencollective&logoColor=white)](https://opencollective.com/mike-odnis)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Y8Y77AJEA-29ABE0?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/Y8Y77AJEA)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-mikeodnis-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mikeodnis)
 
 ---
 
