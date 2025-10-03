@@ -1,6 +1,6 @@
 # Welcome to the 'Garden'
 
-![Welcome to the 'Garden'](.,/assets/images/banner.png)
+![Welcome to the 'Garden']('.,/assets/images/banner.png')
 
 ## Context
 
